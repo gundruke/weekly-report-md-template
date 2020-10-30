@@ -3,7 +3,7 @@ Weekly Report
 
 **Submitted by** Name
 
-**Period** mm/dd/aaaa → mm/dd/aaaa
+**Period** dd/mm/aaaa → dd/mm/aaaa
 
 Urgent!
 -------
